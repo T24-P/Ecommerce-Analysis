@@ -9,7 +9,7 @@ This project explores and visualizes e-commerce sales data using Python. The goa
 Python (Pandas, NumPy) – Data cleaning and transformation
 Plotly Express – Interactive dashboards and charts
 Jupyter Notebook – Exploratory data analysis and storytelling
-Dataset – Sample Superstore Sales Data (CSV)
+Dataset – Superstore Sales Data (CSV)
 
 🔍 Key Steps
 
